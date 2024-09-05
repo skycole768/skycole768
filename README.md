@@ -37,3 +37,4 @@ Repositories I Contributed To:
 - [Memory Base](https://github.com/sufyan360/memory_base)
 - [AI Customer Support](https://github.com/sufyan360/AI_Customer_Support)
 - [FindTune](https://github.com/LisaComments/FindTune)
+- [Professor Checker](https://github.com/sufyan360/professor_check)
